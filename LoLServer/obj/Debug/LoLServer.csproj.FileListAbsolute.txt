@@ -1,0 +1,1 @@
+F:\01_UnityProject\LoLServer\LoLServer\bin\Debug\LoLServer.exe.config
